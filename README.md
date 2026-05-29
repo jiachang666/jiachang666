@@ -17,11 +17,34 @@
 
 ## 🔗 📚 All Skills
 
+### Backend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=go,java,mysql,redis,mongodb,elasticsearch,rabbitmq,kafka,docker,linux,git,github,gitlab,vscode,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,java,python,ts,js,nodejs,html,css,md&theme=dark" />
 </p>
 
+```text
+Gin / go-zero / Kratos / goframe
+gRPC / Protobuf / RESTful API
+```
 
+
+### Cloud Native & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,prometheus,grafana,git,github,gitlab,githubactions,vscode,postman&theme=dark" />
+</p>
+
+```text
+Docker / Kubernetes / Linux / Nginx
+Git / GitHub / GitLab / GitHub Actions
+Nacos / Consul / etcd / MinIO / Jaeger
+```
+
+
+```text
+AI-assisted Coding / Prompt Engineering / Workflow Automation
+```
 
 ---
 
