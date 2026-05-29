@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 你好，我是jiachang
 
-<!--
-**jiachang666/jiachang666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是一名 Golang 后端工程师，主要关注生产力工具、企业协作系统，以及 AI 辅助开发相关方向。我喜欢把复杂的业务流程拆清楚，把服务做得稳定、清晰、容易维护。
 
-Here are some ideas to get you started:
+接下来会持续围绕后端工程、协作效率和智能化工具做更多实践，也会把一些阶段性的想法和作品慢慢沉淀到这里。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 与我联系
+
+- 📧 Email：[17645596917@163.com](mailto:17645596917@163.com)
+- 🐙 GitHub：[jiachang666](https://github.com/jiachang666)
+
+欢迎交流后端工程、企业协作、智能化工具、接口设计以及系统优化相关内容。
+
+---
+
+## 🔗 📚 All Skills
+
+<p>
+  <img src="https://skillicons.dev/icons?i=go,java,mysql,redis,mongodb,elasticsearch,rabbitmq,kafka,docker,linux,git,github,gitlab,vscode,postman&theme=dark" />
+</p>
+
+```text
+Gin / go-zero / Kratos / goframe
+gRPC / Protobuf / Nacos / Consul / etcd
+MQTT / EMQX / DTM / MinIO / Jaeger
+```
+
+---
+
+## ✨ 乐趣
+
+```text
+Backend Developer
+Open Source Learner
+Microservices Explorer
+```
