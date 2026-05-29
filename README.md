@@ -21,11 +21,7 @@
   <img src="https://skillicons.dev/icons?i=go,java,mysql,redis,mongodb,elasticsearch,rabbitmq,kafka,docker,linux,git,github,gitlab,vscode,postman&theme=dark" />
 </p>
 
-```text
-Gin / go-zero / Kratos / goframe
-gRPC / Protobuf / Nacos / Consul / etcd
-MQTT / EMQX / DTM / MinIO / Jaeger
-```
+
 
 ---
 
