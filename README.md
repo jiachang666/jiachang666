@@ -23,10 +23,6 @@
   <img src="https://skillicons.dev/icons?i=go,java,python,ts,js,nodejs,html,css,md&theme=dark" />
 </p>
 
-```text
-Gin / go-zero / Kratos / goframe
-gRPC / Protobuf / RESTful API
-```
 
 
 ### Cloud Native & DevOps
@@ -35,18 +31,9 @@ gRPC / Protobuf / RESTful API
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,prometheus,grafana,git,github,gitlab,githubactions,vscode,postman&theme=dark" />
 </p>
 
-```text
-Docker / Kubernetes / Linux / Nginx
-Git / GitHub / GitLab / GitHub Actions
-Nacos / Consul / etcd / MinIO / Jaeger
-```
 
 
-```text
-AI-assisted Coding / Prompt Engineering / Workflow Automation
-```
 
----
 
 ## ✨ 乐趣
 
